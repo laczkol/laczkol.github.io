@@ -2,6 +2,14 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+title                    : "Levente Laczkó"
+title_separator          : " "
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Levente Laczkó"
+description              : "Personal GitHub pages site"
+url                      : "https://laczkol.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : laczkol/laczkol.github.io
 
 plugins:
   - jekyll-paginate
