@@ -2,7 +2,7 @@ main:
   - title: "research"
     url: /
   - title: "publications"
-    url: /publications/
+    url: /_publications/
   - title: "posts"
     url: /_post/
   - title: "about"
