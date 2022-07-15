@@ -4,6 +4,6 @@ main:
   - title: "publications"
     url: /publications/
   - title: "posts"
-    url: /_post/
+    url: /_posts/
   - title: "about"
     url: /_about/
