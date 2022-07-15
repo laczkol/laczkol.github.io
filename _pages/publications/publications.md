@@ -5,7 +5,7 @@ permalink: /publications/
 title: "publications"
 ---
 
-## Published papers
+## published papers
 
 ### 2022
 Kaszab, E., **Laczkó, L.**, Bali, K., Fidrus, E., Bányai, K., & Kardos, G. (2022). Draft Genome Sequences of *Lacticaseibacillus rhamnosus* cek-R1, *Lacticaseibacillus paracasei* cek-R2, and *Lentilactobacillus otakiensis* cek-R3, Isolated from a Beetroot Product. *Microbiology Resource Announcements*, 11(1), e00921-21. https://doi.org/10.1128/MRA.00921-21
@@ -61,6 +61,6 @@ Sramkó, G., Molnár V., A., Tóth, J. P., **Laczkó, L.**, Kalinka, A., Horvát
 ### 2013
 Takács, A., **Laczkó, L.**, & Molnár, V. A. (2013). A herbáriumok „új típusú” felhasználásai. *Botanikai Közlemények*, 100(1–2), 217–238. [In Hungarian]
 
-## Preprints / Under review
+## preprints / under review
 
 Váradi, A., Kaszab, E., Kardos, G., Prépost, E., Szarka, K., & **Laczkó, L.** (2022). Rapid genotyping of viral samples using Illumina short-read sequencing data [**bioRxiv Preprint**]. Bioinformatics. https://doi.org/10.1101/2022.03.21.485184
