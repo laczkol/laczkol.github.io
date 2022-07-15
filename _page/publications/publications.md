@@ -1,3 +1,10 @@
+---
+layout: single
+classes: wide
+permalink: /publications/
+title: "Publications"
+---
+
 ## Published papers
 
 ### 2022
