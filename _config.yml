@@ -25,7 +25,12 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : true #false (default)
+
 include:
+  - .htaccess
   - _pages
 
 author:
@@ -61,7 +66,6 @@ defaults:
       comments: false # true
       share: false
       related: false
-
 
 category_archive:
   type: liquid
