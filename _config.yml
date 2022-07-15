@@ -19,6 +19,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -50,7 +52,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/"
       type: posts
     values:
       layout: single
