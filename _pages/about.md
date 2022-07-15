@@ -1,8 +1,8 @@
 ---
 layout: single
 classes: wide
-permalink: /publications/
-title: "publications"
+permalink: /about/
+title: "about"
 ---
 
 soon
