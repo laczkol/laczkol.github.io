@@ -53,8 +53,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 defaults:
   # _posts
   - scope:
-      path: "/"
-      type: posts
+      path: ""
+      type: pages
     values:
       layout: single
       author_profile: true
