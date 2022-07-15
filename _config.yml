@@ -31,8 +31,8 @@ include:
 
 author:
   name   : "Levente Laczkó"
-  avatar : # ""
-  bio    : "Interested in bioinformatics and biodiversity."
+  avatar : "/assets/ll.png"
+  bio    : "Interested in bioinformatics and biodiversity research."
   email  : "laczko.levente@med.unideb.hu"
   links:
     - label: "GitHub"
