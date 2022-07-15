@@ -24,8 +24,4 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
 include:
-  - _page
-  - _about
-  - _post
-  - _research
-  - _publications
+  - _pages
