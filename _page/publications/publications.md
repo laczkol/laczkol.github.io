@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 permalink: /publications/
-title: "Publications"
+title: "publications"
 ---
 
 ## Published papers
