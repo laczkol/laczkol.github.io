@@ -54,13 +54,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: false # true
       share: false
       related: false
-  # _pages
-  - scope:
-      path: "/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
