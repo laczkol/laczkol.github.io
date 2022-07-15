@@ -27,7 +27,6 @@ remote_theme: mmistakes/minimal-mistakes
 
 include:
   - _pages
-  - _posts
 
 author:
   name   : "Levente Laczkó"
