@@ -6,4 +6,4 @@ main:
   - title: "posts"
     url: /posts/
   - title: "about"
-    url: /_about/
+    url: /about/
