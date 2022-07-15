@@ -4,7 +4,7 @@ date: 2022-07-15
 layout: single
 classes: wide
 categories:
-  - posts
+  - post
 toc: true
 ---
 
