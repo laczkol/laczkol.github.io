@@ -30,6 +30,9 @@ author:
   name   : "Levente Laczkó"
   avatar : # ""
   bio    : "Interested in bioinformatics and biodiversity."
+  email  : "laczko.levente@med.unideb.hu"
+
+footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
