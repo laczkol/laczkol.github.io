@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /
+permalink: /research/
 title: "research"
 ---
 
